@@ -1,6 +1,6 @@
-Flask==1.1.1
-imutils==0.5.3
-opencv-python==4.4.0.46
-Pillow==8.0.1
+Flask
+imutils
+opencv-python
+Pillow
 numpy
 scikit-image
