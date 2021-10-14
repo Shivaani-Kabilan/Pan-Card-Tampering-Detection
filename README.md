@@ -1,3 +1,5 @@
+The aim of this project is to detect tampering of PAN card using computer vision. This project will help different organizations in detecting whether the identity card i.e. the PAN card provided to them by their employees or customers or anyone is original or fake.
+
 Step to run application:
 Step 1:	Create the copy of the project.
 Step 2: Open command prompt and change your current path 
